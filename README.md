@@ -1,10 +1,43 @@
-![logo](https://github.com/gopikrishna152/gopikrishna152/blob/d9e0921573f3daf806af02d5af42d9e478c577dc/Gopikrishna.png)
+![logo](https://github.com/gopikrishna152/gopikrishna152/blob/08a5fdcb80b282d9da420b43f7f8792287cc40fa/Banner.png)
 <h1 align="center">Hi 👋, I'm Gopikrishna</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopikrishna152&label=Profile%20views&color=0e75b6&style=flat" alt="gopikrishna152" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopikrishna152" alt="gopikrishna152" /></a> </p>
+# Learning Spring Boot
+
+## About Me
+
+📚 I'm currently learning Java and focusing on mastering Spring Boot to build powerful and scalable web applications.
+
+🤝 I'm looking for help with Java and Spring Boot. Whether it's understanding core concepts, solving coding challenges, or getting advice on best practices, I'm eager to learn from experienced developers and enthusiasts in the community.
+
+📫 You can reach me via email at gopikrishna4152@gmail.com. Feel free to get in touch if you have any tips, resources, or just want to chat about Java and Spring Boot!
+
+## Goals
+
+🎯 My primary goal is to become proficient in Spring Boot and develop real-world applications using this framework.
+
+📖 I aim to build a strong foundation in Java programming, understand Spring Boot's architecture and features, and learn how to leverage its capabilities to develop robust and maintainable software solutions.
+
+## Resources
+
+📚 Here are some resources I'm currently using to learn Spring Boot:
+
+- [Spring Boot Official Documentation](https://spring.io/projects/spring-boot)
+- [Spring Boot Guides](https://spring.io/guides)
+- Online tutorials and courses on platforms like Udemy, Coursera, and Pluralsight
+- Community forums, Stack Overflow, and developer blogs
+
+🔍 I'm constantly exploring new resources and learning materials to deepen my understanding of Spring Boot and enhance my Java skills.
+
+## Get in Touch
+
+🤝 If you're also learning Java and Spring Boot, or if you're an experienced developer willing to offer guidance and support, I'd love to connect with you! Feel free to reach out via email or connect with me on LinkedIn [insert LinkedIn profile link].
+
+Let's learn and grow together in the exciting world of Java development and Spring Boot!
+
 
 - 🌱 I’m currently learning **SpringBoot**
 

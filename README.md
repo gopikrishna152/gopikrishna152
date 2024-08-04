@@ -5,58 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopikrishna152&label=Profile%20views&color=0e75b6&style=flat" alt="gopikrishna152" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopikrishna152" alt="gopikrishna152" /></a> </p>
-# Learning Spring Boot
-
-## About Me
-
-📚 I'm currently learning Java and focusing on mastering Spring Boot to build powerful and scalable web applications.
-
-🤝 I'm looking for help with Java and Spring Boot. Whether it's understanding core concepts, solving coding challenges, or getting advice on best practices, I'm eager to learn from experienced developers and enthusiasts in the community.
-
-📫 You can reach me via email at gopikrishna4152@gmail.com. Feel free to get in touch if you have any tips, resources, or just want to chat about Java and Spring Boot!
-
-## Goals
-
-🎯 My primary goal is to become proficient in Spring Boot and develop real-world applications using this framework.
-
-📖 I aim to build a strong foundation in Java programming, understand Spring Boot's architecture and features, and learn how to leverage its capabilities to develop robust and maintainable software solutions.
-
-## Resources
-
-📚 Here are some resources I'm currently using to learn Spring Boot:
-
-- [Spring Boot Official Documentation](https://spring.io/projects/spring-boot)
-- [Spring Boot Guides](https://spring.io/guides)
-- Online tutorials and courses on platforms like Udemy, Coursera, and Pluralsight
-- Community forums, Stack Overflow, and developer blogs
-
-🔍 I'm constantly exploring new resources and learning materials to deepen my understanding of Spring Boot and enhance my Java skills.
-
-## Get in Touch
-
-🤝 If you're also learning Java and Spring Boot, or if you're an experienced developer willing to offer guidance and support, I'd love to connect with you! Feel free to reach out via email or connect with me on LinkedIn [insert LinkedIn profile link].
-
-Let's learn and grow together in the exciting world of Java development and Spring Boot!
-
-
-- 🌱 I’m currently learning **SpringBoot**
-
-- 🤝 I’m looking for help with **Java**
-
-- 📫 How to reach me **gopikrishna4152@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gopi krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopi krishna" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopikrishna152&show_icons=true&locale=en&layout=compact" alt="gopikrishna152" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopikrishna152&show_icons=true&locale=en" alt="gopikrishna152" /></p>
-
 
 
 <h1 align="center">Hi 👋, I'm Gopikrishna</h1>

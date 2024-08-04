@@ -1,6 +1,5 @@
 ![logo](https://github.com/gopikrishna152/gopikrishna152/blob/08a5fdcb80b282d9da420b43f7f8792287cc40fa/Banner.png)
-<h1 align="center">Hi 👋, I'm Gopikrishna</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopikrishna152&label=Profile%20views&color=0e75b6&style=flat" alt="gopikrishna152" /> </p>
 

@@ -64,6 +64,34 @@ Let's learn and grow together in the exciting world of Java development and Spri
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopikrishna152&label=Profile%20views&color=0e75b6&style=flat" alt="gopikrishna152" /> </p>
 
+## About Me
+
+🌐 I'm currently deep diving into the DevOps world and focusing on mastering Docker. My goal is to gain hands-on experience with containerization and orchestration to build scalable and efficient systems.
+
+🚀 I am in the final year of engineering and actively seeking new opportunities to explore and apply my skills in DevOps. Whether it's working on projects, internships, or full-time roles, I'm eager to contribute and learn from real-world experiences.
+
+📫 You can reach me via email at gopikrishna4152@gmail.com. Feel free to connect if you have opportunities, resources, or simply want to discuss DevOps, Docker, or any related topics!
+## Goals
+
+🎯 My primary goal is to become proficient in DevOps practices and tools, with a strong focus on containerization and orchestration. I aim to build robust and scalable systems using Docker and other DevOps technologies.
+
+📖 I am committed to developing a deep understanding of DevOps principles, learning best practices, and applying my knowledge to solve real-world challenges.
+
+## Resources
+
+📚 Here are some resources I'm currently using to deepen my understanding of Docker and DevOps:
+
+Docker Official Documentation
+Online tutorials and courses on platforms like Udemy, Coursera, and Pluralsight
+Community forums, Stack Overflow, and DevOps blogs
+🔍 I'm continuously exploring new resources and learning materials to enhance my skills in Docker and DevOps.
+
+## Get in Touch
+
+🤝 If you're also working in DevOps, or if you have opportunities, guidance, or advice to offer, I'd love to connect with you! Feel free to reach out via email or connect with me on LinkedIn [insert LinkedIn profile link].
+
+Let's collaborate and grow together in the exciting world of DevOps and containerization!
+
 - 🔭 I’m currently working on **Docker**
 
 - 🌱 I’m currently learning **Devops**

@@ -39,7 +39,7 @@ Community forums, Stack Overflow, and DevOps blogs
 
 Let's collaborate and grow together in the exciting world of DevOps and containerization!
 
-- 🔭 I’m currently working on **Docker**
+- 🔭 I’m currently working on **Kubernetes**
 
 - 🌱 I’m currently learning **Devops**
 

@@ -17,43 +17,99 @@
 
 ## About Me
 
-🌐 I'm currently deep diving into the DevOps world and focusing on mastering Docker. My goal is to gain hands-on experience with containerization and orchestration to build scalable and efficient systems.
+<h1 align="center">Hi 👋, I'm Gopikrishna</h1>
+<h3 align="center">DevOps Engineer | Healthcare Domain | Security-Focused Infrastructure</h3>
 
-🚀 I am currently an Intern at Techolution and am in my notice period, actively seeking new opportunities to apply my skills in DevOps. Whether it's working on projects, internships, or full-time roles, I'm eager to contribute and learn from real-world experiences.
+---
 
-📫 You can reach me via email at **gopikrishna4152@gmail.com**. Feel free to connect if you have opportunities, resources, or simply want to discuss DevOps, Docker, or any related topics!
+## 🚀 About Me
 
-## Goals
+I am currently working as a **DevOps Engineer in the Healthcare domain**, building and maintaining secure, scalable, and production-grade cloud infrastructure.
 
-🎯 My primary goal is to become proficient in DevOps practices and tools, with a strong focus on containerization and orchestration. I aim to build robust and scalable systems using Docker and other DevOps technologies.
+My work strongly leans toward:
 
-📖 I am committed to developing a deep understanding of DevOps principles, learning best practices, and applying my knowledge to solve real-world challenges.
+- 🔐 Infrastructure Security & Hardening
+- ☁️ Cloud Architecture (AWS)
+- 🐳 Containerization & Kubernetes
+- 🔁 CI/CD Automation
+- 📊 Monitoring & Observability
+- 🔒 Compliance-oriented system design (healthcare-grade environments)
 
-## Resources
+Healthcare systems demand high availability, strict access control, encryption, auditability, and compliance — and that’s where I focus.
 
-📚 Here are some resources I'm currently using to deepen my understanding of Docker and DevOps:
-- Docker Official Documentation
-- Online tutorials and courses on platforms like Udemy, Coursera, and Pluralsight
-- Community forums, Stack Overflow, and DevOps blogs
+I don’t just deploy systems.  
+I design them to be **secure, resilient, and scalable by default.**
 
-🔍 I'm continuously exploring new resources and learning materials to enhance my skills in Docker and DevOps.
+---
 
-## Get in Touch
+## 🛠 What I Currently Work On
 
-🤝 If you're also working in DevOps, or if you have opportunities, guidance, or advice to offer, I'd love to connect with you! Feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/gopikrishna-palla/)
+- Kubernetes cluster management & optimization
+- Secure CI/CD pipeline implementation
+- IAM policies & least privilege enforcement
+- Infrastructure as Code (Terraform)
+- Dockerized microservices deployments
+- Logging, monitoring & alerting systems
+- Production troubleshooting & performance tuning
+- Cloud cost optimization
 
-Let's collaborate and grow together in the exciting world of DevOps and containerization!
+---
 
-- 🔭 I’m currently working on **Kubernetes**
-- 🌱 I’m currently learning **DevOps**
-- 🤝 I’m looking for help with **Java, DevOps**
-- 📫 How to reach me: **gopikrishna4152@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oyfZLtVOx1KM2mr4b0xr7pifqBMXICKP/view?usp=sharing)
+## 🎯 Professional Focus
+
+- Strengthening DevSecOps practices
+- Implementing Zero Trust principles
+- Automating infrastructure provisioning
+- Building highly available systems
+- Improving deployment velocity without compromising security
+
+---
+
+## 🏗 Key Areas of Expertise
+
+- AWS (EC2, IAM, VPC, S3, RDS, EKS)
+- Kubernetes (Deployment strategies, scaling, RBAC)
+- Docker
+- Terraform
+- Jenkins / GitLab CI
+- Linux
+- Nginx
+- Monitoring & Alerts
+- Security Hardening
+
+---
+
+## 📈 Current Learning Focus
+
+- Advanced Kubernetes security
+- Secrets management
+- Cloud security best practices
+- Production-grade system design
+- Observability engineering
+
+---
+
+## 🤝 Open To
+
+- DevOps / Cloud / Platform Engineering roles
+- Security-focused infrastructure roles
+- High-scale system design opportunities
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **gopikrishna4152@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/gopikrishna-palla-devops-engineer/
+
+---
+
+> “Automation is powerful. Secure automation is professional.”
 
 ## Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/gopikrishna-palla" target="blank">
+  <a href="www.linkedin.com/in/gopikrishna-palla-devops-engineer" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopikrishna-palla" height="30" width="40" />
   </a>
 </p>

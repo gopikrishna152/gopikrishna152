@@ -13,11 +13,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gopikrishna</h1>
-<h3 align="center">Currently Deep Diving into the DevOps World</h3>
-
-## About Me
-
-<h1 align="center">Hi 👋, I'm Gopikrishna</h1>
 <h3 align="center">DevOps Engineer | Healthcare Domain | Security-Focused Infrastructure</h3>
 
 ---
